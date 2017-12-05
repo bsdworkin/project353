@@ -1,9 +1,3 @@
-    //var socket = io();
-
-   // socket.on('connect', function (){
-   //     console.log('Connected to server');
-   // });
-
 
     jQuery('#contactForm').on('submit', function(e){
          e.preventDefault();
