@@ -28,8 +28,8 @@ app.post('/users', (req, res)=>{
 
 //app.use(express.static(publicPath));
 
-var server = http.createServer(app);
-var io = socketIO(server);
+//var server = http.createServer(app);
+//var io = socketIO(server);
 
 
 //io.on('connection', (socket)=>{
